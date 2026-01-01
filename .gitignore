@@ -1,0 +1,11 @@
+.DS_Store
+
+# System & Binary directories
+herd-lite/
+
+# Cache & State
+configstore/
+karabiner/automatic_backups/
+
+# App history
+wireshark/recent*
